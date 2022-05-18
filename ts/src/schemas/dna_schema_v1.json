@@ -27,7 +27,127 @@
           "fixed_attributes": {
             "name": "Bitebit",
             "family": "Bitebit",
+            "mp": 4
+          },
+          "encoded_attributes": {
+            "hp": [40, 50],
+            "initiative": [1100, 1200],
+            "atk": [220, 230],
+            "def": [90, 100],
+            "eatk": [30, 40],
+            "edef": [90, 100],
+            "skill_a": [
+              "Rancune"
+            ],
+            "skill_b": [
+              "Pull"
+            ],
+            "skill_c": [
+              "Stomp"
+            ],
+       
+      "archetypes": {
+        "0": {
+          "fixed_attributes": {
+            "name": "Block choi",
+            "family": "Block choi",
             "mp": 3
+          },
+          "encoded_attributes": {
+            "hp": [40, 50],
+            "initiative": [1100, 1200],
+            "atk": [220, 230],
+            "def": [90, 100],
+            "eatk": [30, 40],
+            "edef": [90, 100],
+            "skill_a": [
+              "Rancune"
+            ],
+            "skill_b": [
+              "Pull"
+            ],
+            "skill_c": [
+              "Stomp"
+            ],
+            
+      "archetypes": {
+        "0": {
+          "fixed_attributes": {
+            "name": "Dinobit",
+            "family": "Dinobit",
+            "mp": 2
+          },
+          "encoded_attributes": {
+            "hp": [40, 50],
+            "initiative": [1100, 1200],
+            "atk": [220, 230],
+            "def": [90, 100],
+            "eatk": [30, 40],
+            "edef": [90, 100],
+            "skill_a": [
+              "Rancune"
+            ],
+            "skill_b": [
+              "Pull"
+            ],
+            "skill_c": [
+              "Stomp"
+            ],
+            
+      "archetypes": {
+        "0": {
+          "fixed_attributes": {
+            "name": "Dipking",
+            "family": "Dipking",
+            "mp": 2
+          },
+          "encoded_attributes": {
+            "hp": [40, 50],
+            "initiative": [1100, 1200],
+            "atk": [220, 230],
+            "def": [90, 100],
+            "eatk": [30, 40],
+            "edef": [90, 100],
+            "skill_a": [
+              "Rancune"
+            ],
+            "skill_b": [
+              "Pull"
+            ],
+            "skill_c": [
+              "Stomp"
+            ],
+                 
+      "archetypes": {
+        "0": {
+          "fixed_attributes": {
+            "name": "Shiba Ignite",
+            "family": "Shiba Ignite",
+            "mp": 2
+          },
+          "encoded_attributes": {
+            "hp": [40, 50],
+            "initiative": [1100, 1200],
+            "atk": [220, 230],
+            "def": [90, 100],
+            "eatk": [30, 40],
+            "edef": [90, 100],
+            "skill_a": [
+              "Rancune"
+            ],
+            "skill_b": [
+              "Pull"
+            ],
+            "skill_c": [
+              "Stomp"
+            ],
+            
+      "archetypes": {
+        "0": {
+          "fixed_attributes": {
+            "name": "Zzoo",
+            "family": "Zzoo",
+            "mp": 5
           },
           "encoded_attributes": {
             "hp": [40, 50],
